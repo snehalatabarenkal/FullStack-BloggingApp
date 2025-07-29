@@ -1,1 +1,1 @@
-# snehalatabarenkal-FullStack-BloggingApp
+# FullStack-BloggingApp
